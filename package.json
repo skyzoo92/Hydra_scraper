@@ -1,5 +1,5 @@
 {
-  "name": "@hydra_scraper",
+  "name": "@hydra-scraper",
   "version": "1.0.0",
   "description": "A simple scraper.",
   "main": "index.js",
